@@ -1,4 +1,0 @@
-- mkdir n8n_local
-- sudo chown -R enrique:enrique n8n_local/
-- docker compose up -d
-- http://localhost:5678/
